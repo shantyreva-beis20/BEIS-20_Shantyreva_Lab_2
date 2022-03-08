@@ -1,0 +1,17 @@
+D:\NikolaevAR\LB1.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\NikolaevAR\LB1.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\NikolaevAR\LB1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\NikolaevAR\LB1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\NikolaevAR\LB1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\NikolaevAR\LB1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\NikolaevAR\LB1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\NikolaevAR\LB1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\2 семестр\Сделано\LB1.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Documents\2 семестр\Сделано\LB1.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Documents\2 семестр\Сделано\LB1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\user\Documents\2 семестр\Сделано\LB1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Documents\2 семестр\Сделано\LB1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Documents\2 семестр\Сделано\LB1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\user\Documents\2 семестр\Сделано\LB1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\2 семестр\Сделано\LB1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Documents\2 семестр\Сделано\LB1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
