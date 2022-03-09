@@ -15,3 +15,12 @@ C:\Users\user\Documents\2 семестр\Сделано\LB1.1\WindowsFormsApplic
 C:\Users\user\Documents\2 семестр\Сделано\LB1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
 C:\Users\user\Documents\2 семестр\Сделано\LB1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
 C:\Users\user\Documents\2 семестр\Сделано\LB1.1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\projects\BEIS-20_Shantyreva_Lab_2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\projects\BEIS-20_Shantyreva_Lab_2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\projects\BEIS-20_Shantyreva_Lab_2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\projects\BEIS-20_Shantyreva_Lab_2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\projects\BEIS-20_Shantyreva_Lab_2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\projects\BEIS-20_Shantyreva_Lab_2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\projects\BEIS-20_Shantyreva_Lab_2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\projects\BEIS-20_Shantyreva_Lab_2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\projects\BEIS-20_Shantyreva_Lab_2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
